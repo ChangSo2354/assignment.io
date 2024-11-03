@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#box {
+    border-radius: 30px;
+    background-color: black; 
+    width: 300px; 
+    height: 300px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    color: white;
+}
+
+.button-box {
+    padding: 1px; 
+    margin: 5px auto; 
+    width: 23%; 
+}
+
+
